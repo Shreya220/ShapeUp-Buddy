@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             elevation: 0,
             iconTheme: IconThemeData(color: Colors.white)),
       ),
-      home: SignUp(),
+      home: intro(),
       debugShowCheckedModeBanner: false,
     );
   }
